@@ -1,0 +1,12 @@
+---------------------
+Phenotype
+---------------------
+Biosynthesis rate (aa/min): 7.09e+05
+Cell size (aa): 1.83e+09
+Growth rate (h-1): 1.4
+Doubling time (minutes): 29.75
+
+---------------------
+System state
+---------------------
+Intracellular energy (molecules): 44.75
